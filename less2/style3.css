@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500;700&display=swap');
+
+* {
+    margin: 5px;
+}
+h1 {
+    color: navy;
+    font-family: Tahoma;
+}
+p {
+    color: #800080;
+    font-family: Arial;
+}
+#exp {
+     font-size: 24px;
+     font-family: Lora;
+}

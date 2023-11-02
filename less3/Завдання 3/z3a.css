@@ -1,0 +1,19 @@
+h1 {
+    color: navy;
+    font-family: tahoma;
+}
+
+p {
+    color: #800080;
+    font-family: Arial;
+}
+
+.p1 {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    background-color: aqua;
+}

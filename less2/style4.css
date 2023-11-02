@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap');
+body {
+    color:navy;
+    font-family: Consolas;
+    font-weight: bold;
+}
+h1 {
+    color: orange;
+    font-family: 'Lora', serif;
+}
+#people {
+    color: white;
+    background-color: red;
+    padding: 5px;
+}
+.p-1 {
+    color: green;
+}
+.p-2 {
+    color: purple;
+}
+.p-3 {
+    color: greenyellow;
+}
+.p-4 {
+    color: red;
+}
+#priv {
+    color: pink;
+}
