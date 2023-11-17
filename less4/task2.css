@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(56, 56, 252);
+}
+
+.el-white {
+    color: white;
+}
+
+.el-yellow {
+    color: yellow;
+}
+
+hr {
+    height: 1px;
+    width: 80%;
+    background-color: silver;
+}
+
+ul {
+    list-style-image: url("cat_drunk.png");
+}

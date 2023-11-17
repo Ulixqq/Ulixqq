@@ -1,0 +1,65 @@
+body {
+    font-family: Book Antiqua;
+    color: navy;
+    text-align: justify;
+    background-image: url(tyu.png);
+}
+
+ul {
+    list-style-type: circle;
+}
+
+pre {
+    text-align: right;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    width: 250px;
+    height: 3px;
+}
+
+.line {
+    width: 125px;
+    height: 1px;
+    background-color: grey;
+}
+
+/* стаття про Ліну Костенко */
+
+
+.lina {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+.hr-lina {
+    background-color: green;
+}
+
+/* стаття про Василя Симоненка */
+
+.hr-vasul {
+    background-color: red;
+}
+
+.vasul {
+    color: red;
+    font-family: Courier New;
+}
+
+/* стаття про Дмитра Павличка */
+
+.hr-dima {
+    background-color: #336666;
+}
+
+.dima {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: #336666;
+}
+

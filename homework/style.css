@@ -1,0 +1,45 @@
+.center, p {
+    color: rgb(255, 102, 0);
+}
+
+body {
+    background-image: url(image/ter.png);
+    background-repeat: repeat;
+    background-color: rgb(126, 51, 1);
+}
+
+hr {
+    background-color: rgb(197, 82, 5);
+    height: 5px;
+}
+.man {
+    list-style-type: circle;
+    color: rgb(255, 102, 0);
+}
+
+h2 {
+    color: rgb(255, 102, 0)
+}
+
+ol {
+    list-style-type: lower-latin;
+    color: rgb(255, 102, 0);
+}
+
+.p1 {
+    height: 50px;
+    width: 300px;
+    background-image: url(image/leafs.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.p2 {
+    height: 80px;
+    width: 200px;
+    background-color: rgb(252, 144, 93);
+}
+
+li {
+    padding-bottom: 12px;
+}

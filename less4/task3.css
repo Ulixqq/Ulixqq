@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+.c1 {
+    color: blue;
+}
+
+span {
+    color: red;
+}
+
+.c2 {
+    background-color: red;
+    height: 2px;
+    width: 80%;
+}
+
+.l1 {
+    width: 128px;
+    height: 40px;
+    background-color: blue;
+}
+
+.l2 {
+    width: 40px;
+    height: 35px;
+    background-color: red;
+}
