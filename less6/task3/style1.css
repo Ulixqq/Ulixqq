@@ -1,0 +1,24 @@
+.poland {
+    width: 15%;
+    height: 20%;
+    border: 5px solid rgb(172, 2, 2);
+    float: right;
+    margin-left: 10px;
+}
+
+.ukraine {
+    width: 15%;
+    height: 15%;
+    border: 3px solid rgb(172, 2, 2);
+    float: left;
+    margin-right: 10px;
+    
+}
+
+h1, h2, p {
+    color: rgb(172, 2, 2);
+}
+
+h2:nth-child(2n), .poland {
+    margin-top: 100px;
+}

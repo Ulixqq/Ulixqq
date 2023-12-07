@@ -1,0 +1,24 @@
+body {
+    background-color: silver;
+}
+
+p {
+    text-align: justify;
+}
+
+.moon1 {
+    width: 80px;
+    height: 80px;
+    padding-bottom: 5px;
+}
+
+.moon2 {
+    float: right;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.moon3 {
+    float: left;
+    margin: 10px;
+}
