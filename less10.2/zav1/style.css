@@ -1,0 +1,18 @@
+table {
+    border: 2px solid #0abdca;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 2px solid #0abdca;
+}
+
+th {
+    background-color: #039BFF;
+}
+
+td {
+    background-color: #00F0Ff;
+}

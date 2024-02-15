@@ -1,0 +1,23 @@
+table {
+    border: 1px solid black;
+    width: 400px;
+}
+
+.stovb1 {
+    width: 300px;
+}
+
+.stovb2 {
+    width: 100px;
+}
+th,td {
+    border: 1px solid black;
+}
+
+tr {
+    background-color: #99CC99;
+}
+
+tr:nth-child(2n) {
+    background-color: #66CC99;
+}

@@ -1,0 +1,81 @@
+body {
+    background-image: url(image/my_pic.png);
+    width: 100%;
+}
+
+p {
+    text-align: justify;
+}
+
+.web {
+    width: 250px;
+    margin-left: 20px;
+}
+
+.text-red,ol {
+    color:red;
+}
+
+ol img {
+    width: 150px;
+}
+
+ol {
+    margin-bottom: 40px;
+}
+
+.line {
+    width: 150px;
+    height: 2px;
+}
+
+.chelik {
+    width: 150px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.line-blue {
+    background-color: blue;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.line-red {
+    background-color: red;
+}
+
+.css {
+    width: 80px;
+}
+
+.line-yellow {
+    background-color: rgba(209, 180, 18, 0.767);
+}
+
+.text-yellow {
+    color: rgb(209, 180, 0.767);
+}
+
+.line-green {
+    background-color: green;
+}
+
+.text-green {
+    color: green;
+}
+
+.slon {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.line-top {
+    margin-top: 30px;
+}
