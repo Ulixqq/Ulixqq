@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+    color: rgb(124, 18, 18);
+}
+
+.block {
+    background-color: rgb(253, 188, 109);
+    border: 5px dashed rgb(241, 114, 114);
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.block2, .block3, .block4 {
+    width: 43%;
+    height: 80px;
+}
+
+.block2 {
+    float: left;
+}
+
+.block3 {
+    float: right;
+}
+
+.block4 {
+    clear: both;
+    margin: 12px auto;
+}
