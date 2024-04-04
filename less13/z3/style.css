@@ -1,0 +1,51 @@
+body {
+    background-color: #6699cc;
+}
+
+.btn {
+    background-color: #ffff99;
+    margin: 3px;
+    float: left;
+    padding: 7px 14px;
+}
+
+.main {
+    background-color: #99ffff;
+    clear: both;
+    width: 100%;
+    height: 60vh;
+}
+
+h1 {
+    color: white;
+}
+
+.kartunka {
+    float: left;
+}
+
+.kartunka img {
+    margin: 3px 10px 5px 3px ;
+}
+
+.menu {
+    clear: both;
+}
+
+.leftb {
+    width: 11%;
+    float: left;
+
+}
+
+.leftb img {
+    width: 100%;
+}
+
+.novunu {
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
