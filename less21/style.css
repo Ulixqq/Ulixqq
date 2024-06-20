@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.header {
+    background-color: plum;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.menushka {
+    background-color: rgb(44, 44, 44);
+    display: flex;
+}
+
+.menushka a {
+    color: plum;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.menushka a:hover {
+    background-color: rgb(182, 117, 182);
+    color: white;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.sideleft {
+    background-color: #dbdbdb;
+    padding: 20px;
+    flex: 30%;
+}
+
+.sideright {
+    background-color: #ffffff;
+    padding: 20px;
+    flex: 70%;
+}
+
+.fakefoto {
+    background-image: url(img/smileface.jpg);
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+
+.fakefoto2 {
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: rgb(191, 85, 191);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+@media screen and (max-width: 700px) {
+    .menushka, .main {
+        flex-direction: column;
+    }
+
+    .header {
+        background-color: rgb(200, 105, 219);
+    }
+
+    .menushka {
+        text-align: center;
+    }
+} 
+    
